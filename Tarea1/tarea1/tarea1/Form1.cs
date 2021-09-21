@@ -19,7 +19,7 @@ namespace tarea1
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Saber leer es saber andar. Saber escribir, es saber ascender.   -Jose Marti");
         }
     }
 }
